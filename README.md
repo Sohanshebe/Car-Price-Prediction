@@ -8,19 +8,22 @@ The project utilizes a dataset containing information about used cars, including
 
 ## Key Objectives
 The main objectives of this project include:
-- **Data Preprocessing:** Cleaning and preprocessing the dataset to handle missing values, encode categorical variables, and prepare the data for modeling.
-- **Exploratory Data Analysis (EDA):** Conducting exploratory data analysis to gain insights into the distribution, correlation, and patterns present in the car features.
-- **Feature Engineering:** Identifying relevant features and engineering new ones to improve the predictive performance of the models.
-- **Predictive Modeling:** Building and training machine learning models to predict car prices based on the available features.
-- **Model Evaluation:** Evaluating the performance of the trained models using appropriate evaluation metrics and techniques.
+- <b>Data Preprocessing:</b> Cleaning and preprocessing the dataset to handle missing values, encode categorical variables, and prepare the data for modeling.
+- <b>Exploratory Data Analysis (EDA):</b> Conducting exploratory data analysis to gain insights into the distribution, correlation, and patterns present in the car features.
+- <b>Feature Engineering:</b> Identifying relevant features and engineering new ones to improve the predictive performance of the models.
+- <b>Predictive Modeling:</b> Building and training machine learning models to predict car prices based on the available features.
+- <b>Model Evaluation:</b> Evaluating the performance of the trained models using appropriate evaluation metrics and techniques.
 
 ## Tools and Technologies
 This project makes use of the following tools and technologies:
-- **Python:** Programming language used for data analysis, modeling, and visualization.
-- **Jupyter Notebook:** Interactive computational environment for executing Python code and conducting data analysis.
-- **Pandas:** Data manipulation library for working with structured data.
-- **NumPy:** Library for numerical computing and array operations.
-- **Scikit-learn:** Machine learning library for building and evaluating predictive models.
-- **Matplotlib and Seaborn:** Visualization libraries for creating insightful plots and charts.
+- <b>Python:</b> Programming language used for data analysis, modeling, and visualization.
+- <b>Jupyter Notebook:</b> Interactive computational environment for executing Python code and conducting data analysis.
+- <b>Pandas:</b> Data manipulation library for working with structured data.
+- <b>NumPy:</b> Library for numerical computing and array operations.
+- <b>Scikit-learn:</b> Machine learning library for building and evaluating predictive models.
+- <b>Matplotlib and Seaborn:</b> Visualization libraries for creating insightful plots and charts.
+
+
+
 
 
